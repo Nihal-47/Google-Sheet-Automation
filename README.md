@@ -7,3 +7,6 @@ and mails batch details to all the students.
 
 ## Technology Used:
 * Google AppScript
+
+## Demo Google-Sheet Link
+*[SoftWare-Testing-Sheet] (https://docs.google.com/spreadsheets/d/1mZNFML9dkoob39sP5hZx1_Yvq6pVX4QKLSMLmVVqWmk/edit?usp=sharing)
